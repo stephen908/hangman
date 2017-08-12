@@ -1,0 +1,26 @@
+.game-dash {
+	background-color: grey;
+	border: 1px solid grey;
+	text-align:center;
+	color: white;
+}
+#win-count {
+}
+body{
+	background-color: red;
+	border-left: 20px;
+}
+head{
+	border: 10px;
+}
+footer{
+	text-align: center;
+	display: block;
+	font-size: 50px;
+	font-weight: 40px;
+	color: black;
+}
+#conflu{
+	margin-right: 20px;
+	margin-left: 20px;
+}
